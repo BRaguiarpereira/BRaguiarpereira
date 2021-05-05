@@ -20,15 +20,15 @@ Currently I have been studying the most modern  Back-End technologies.<br />
 <div style="text-align:center"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /></div>
 
 <h3>
-<h5>
+<h3>
 🚀 Frameworks	
-</h5>
+</h3>
 <div style="text-align:center"><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" /><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></div>
-<h6>
+<h3>
 💻 IDE
-</h6>
+</h3>
 <div style="text-align:center"><img src="https://img.shields.io/badge/Visual_Studio_2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" /></div>
 📱 Contact
-</h3>
+
 <p>Connect with me:</p><a href="https://www.linkedin.com/in/brian-aguiar-pereira-138783169/ "><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
