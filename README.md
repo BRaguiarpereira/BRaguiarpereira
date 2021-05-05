@@ -28,7 +28,8 @@ Currently I have been studying the most modern  Back-End technologies.<br />
 💻 IDE
 </h3>
 <div style="text-align:center"><img src="https://img.shields.io/badge/Visual_Studio_2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" /></div>
+<h3>
 📱 Contact
-
+</h3>
 <p>Connect with me:</p><a href="https://www.linkedin.com/in/brian-aguiar-pereira-138783169/ "><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
