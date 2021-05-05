@@ -21,5 +21,5 @@ Currently I have been studying the most modern  Back-End technologies.<br />
 
 
 
-<p>Connect with me:</p><a href="https://www.linkedin.com/in/caio-haruo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<p>Connect with me:</p><a https://www.linkedin.com/in/brian-aguiar-pereira-138783169/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
