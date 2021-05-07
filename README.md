@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brian Aguiar Pereira</h1>
 <h3 align="center">Enthusiast of Technology and Web Development from São Paulo/Brasil</h3>
 
-<h4>
-Attending the fifth semester of Science Computing.<br /> 
-Currently I have been studying the most modern  Back-End technologies.<br /> 
-</h4>
 
-</br>
 </br>
  <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -23,6 +18,11 @@ Currently I have been studying the most modern  Back-End technologies.<br />
     />
   </a>
 </p>
+
+<h4>
+Attending the fifth semester of Science Computing.<br /> 
+Currently I have been studying the most modern  Back-End technologies.<br /> 
+</h4>
 
 <h2>
 💻 Languages
