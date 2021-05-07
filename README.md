@@ -6,6 +6,24 @@ Attending the fifth semester of Science Computing.<br />
 Currently I have been studying the most modern  Back-End technologies.<br /> 
 </h4>
 
+</br>
+</br>
+ <p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="left"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=BRaguiarpereira&layout=compact"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="left"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=BRaguiarpereira&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+    />
+  </a>
+</p>
+
 <h2>
 💻 Languages
 </h2>
@@ -30,21 +48,5 @@ Currently I have been studying the most modern  Back-End technologies.<br />
 </h3>
 <p>Connect with me:</p><a href="https://www.linkedin.com/in/brian-aguiar-pereira-138783169/ "><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-</br>
-</br>
- <p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="left"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=BRaguiarpereira&layout=compact"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="left"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=BRaguiarpereira&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
-    />
-  </a>
-</p>
+
 
