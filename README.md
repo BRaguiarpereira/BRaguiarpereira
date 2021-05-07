@@ -18,6 +18,7 @@
     />
   </a>
 </p>
+</br>
 
 <h4>
 Attending the fifth semester of Science Computing.<br /> 
