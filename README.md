@@ -18,10 +18,10 @@
     />
   </a>
 </p>
-</br>
 
 <h4>
 Attending the fifth semester of Science Computing.<br /> 
+ 
 Currently I have been studying the most modern  Back-End technologies.<br /> 
 </h4>
 
